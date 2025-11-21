@@ -22,7 +22,7 @@ This project uses a simple and clean frontend structure.
 ***Key Points:***
 - No additional libraries were used.
 - Architecture focuses on clarity and maintainability.
-- Uses built-in React/Next.js capabilities.
+- Uses built-in Next.js capabilities.
 - Lightweight setup to keep the project fast and minimal.
 
 ## 3. Vercel Demo
