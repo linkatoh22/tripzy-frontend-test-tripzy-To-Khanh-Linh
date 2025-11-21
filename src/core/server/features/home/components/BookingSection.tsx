@@ -150,8 +150,8 @@ export default function  BookingSection(){
                                 
                                 />
 
-                                <div onClick={swapLocations} className="cursor-pointer p-3 rounded-full shadow-[0px_2px_4px_rgba(32,80,118,0.12)] hover:opacity-80" >
-                                    <img src="/icons/TransferIcon.svg" alt="Transfer Icon"/>
+                                <div onClick={swapLocations} className="cursor-pointer p-5  rounded-full shadow-lg hover:opacity-50" >
+                                    <img src="/icons/TransferIcon.svg" alt="Transfer Icon" />
                                 </div>
 
                                 <LocationDropdown 
